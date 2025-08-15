@@ -1,0 +1,4 @@
+from:
+  table: <table>
+  subquery: <subquery>
+  alias: <alias>

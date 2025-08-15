@@ -1,0 +1,5 @@
+measure:
+  name: <name>
+  entity: <entity>
+  expression: <expression>
+  function: <function>

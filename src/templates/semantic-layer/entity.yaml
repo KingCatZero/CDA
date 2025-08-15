@@ -1,0 +1,5 @@
+entity:
+  name: <name>
+  table: <table>
+  type: <type>
+  attributes: <list>

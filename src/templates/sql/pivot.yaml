@@ -1,0 +1,6 @@
+pivot:
+  column: <column>
+  values: <list>
+  aliases: <list>
+  aggregateColumn: <column>
+  function: <function>

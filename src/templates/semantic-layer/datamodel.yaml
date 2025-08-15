@@ -1,0 +1,17 @@
+dataModel:
+  entities:
+    - entity: <entity>
+    - entity: <entity>
+    - entity: <entity>
+  relationships:
+    - relationship: <relationship>
+    - relationship: <relationship>
+    - relationship: <relationship>
+  hierarchies:
+    - hierarchy: <hierarchy>
+    - hierarchy: <hierarchy>
+    - hierarchy: <hierarchy>
+  measures:
+    - measure: <measure>
+    - measure: <measure>
+    - measure: <measure>

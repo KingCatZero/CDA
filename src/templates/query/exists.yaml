@@ -1,0 +1,6 @@
+exists:
+  type: <type>
+  left: <idn>
+  leftColumn: <column>
+  rights: <list>
+  rightColumns: <list>

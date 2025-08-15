@@ -1,0 +1,4 @@
+table:
+  name: <name>
+  primaryKey: <name>
+  columns: <list>

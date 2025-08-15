@@ -1,0 +1,6 @@
+append:
+  type: <type>
+  left: <idn>
+  leftColumns: <list>
+  rights: <list>
+  rightGroups: <list>

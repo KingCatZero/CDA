@@ -1,0 +1,4 @@
+unpivot:
+  valueColumnName: <name>
+  labelColumnName: <name>
+  columns: <list>

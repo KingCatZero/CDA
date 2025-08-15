@@ -1,0 +1,13 @@
+dataset:
+  tables:
+    - table: <table>
+    - table: <table>
+    - table: <table>
+  links:
+    - link: <link>
+    - link: <link>
+    - link: <link>
+  aggregates:
+    - aggregate: <aggregate>
+    - aggregate: <aggregate>
+    - aggregate: <aggregate>

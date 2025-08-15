@@ -1,0 +1,11 @@
+sql:
+  select: <select>
+  from: <from>
+  joins: <list>
+  pivot: <pivot>
+  unpivot: <unpivot>
+  where: <where>
+  groupBy: <groupBy>
+  having: <having>
+  limit: <limit>
+  orderBy: <orderBy>

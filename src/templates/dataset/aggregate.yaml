@@ -1,0 +1,4 @@
+aggregate:
+  aggregateColumn: <column>
+  baseColumn: <column>
+  function: <function>

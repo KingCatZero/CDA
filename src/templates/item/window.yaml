@@ -1,0 +1,4 @@
+window:
+  partitionBy: <list>
+  orderBy: <list>
+  directions: <list>

@@ -1,0 +1,5 @@
+join:
+  fromTable: <table>
+  fromColumns: <list>
+  toTable: <table>
+  toColumns: <list>

@@ -1,0 +1,4 @@
+expression:
+  type: <type>
+  value: <value>
+  alias: <alias>

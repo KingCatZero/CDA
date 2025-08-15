@@ -1,0 +1,4 @@
+predicate:
+  left: <expression>
+  right: <expression>
+  operator: <operator>

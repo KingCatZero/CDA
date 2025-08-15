@@ -1,0 +1,9 @@
+subquery:
+  idn: <n>
+  type: <type>
+  sql: <sql>
+  parent: <idn>
+  children: <list>
+  append: <append>
+  exists: <exists>
+  merge: <merge>
