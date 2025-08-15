@@ -1,1 +1,1 @@
-## Analytics platform
+## Aggregation/Pivot tool for analytics.
